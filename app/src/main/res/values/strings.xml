@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Mon Application</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    -
+    <string-array name="names_txt">
+
+        <item>Adam</item>
+
+        <item>Ahmed</item>
+
+        <item>Anastasia</item>
+
+        <item>Elba</item>
+
+        <item>Elena</item>
+
+        <item>Jad</item>
+
+        <item>Jennifer</item>
+
+        <item>Karim</item>
+
+        <item>Lela</item>
+
+        <item>Sam</item>
+
+    </string-array>
+
+
+    -
+    <string-array name="job_txt">
+
+        <item>Designer</item>
+
+        <item>Engineer</item>
+
+        <item>Engineer</item>
+
+        <item>Actor</item>
+
+        <item>Compositor</item>
+
+        <item>3D-Designer</item>
+
+        <item>Sound</item>
+
+        <item>Actor</item>
+
+        <item>Economist</item>
+
+        <item>Director</item>
+
+    </string-array>
+
+</resources>
